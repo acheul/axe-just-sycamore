@@ -1,0 +1,5 @@
+# default settings
+
+[build]
+target = "index.html"
+dist = "dist"
